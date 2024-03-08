@@ -1,0 +1,7 @@
+When doing through and running the npm side you need to make sure that you go into cmd (doesn't have to be admin) and navigate to the directory with the following command:
+
+cd C:\ProjectWork\project-phase02-cust-app
+
+Given the npm has already been installed earlier, you will need to run "npm run start" and you should see http://localhost:3000/
+
+Any additional instances that are open will cause it to increase in port# ie. 3001, 3002, etc.
